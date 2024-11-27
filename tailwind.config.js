@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'team-stadium': "url('/src/assets/team-stadium.webp')",
+        'team-stadium': "url('/src/assets/team-stadium.png')",
         'real-stadium': "url('/src/assets/real-stadium.jpg')",
       },
     },
