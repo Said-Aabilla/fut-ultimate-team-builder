@@ -4,7 +4,7 @@ const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
-    <nav className="bg-gray-600 text-white px-4 py-2 flex items-center justify-between mb-4">
+    <nav className="bg-gray-900 text-white px-4 py-2 flex items-center justify-between mb-4">
       {/* Logo */}
       <div className="text-lg font-bold">FUT Team</div>
 
