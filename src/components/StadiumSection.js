@@ -6,7 +6,7 @@ const StadiumSection = () => (
   <div className="col-span-2 relative transform scale-90">
     <div
       className="bg-team-stadium bg-no-repeat bg-center absolute inset-0 grid grid-rows-6 grid-cols-5 gap-2"
-      style={{ backgroundSize: "90%" }} // Adjust percentage to control the size
+      style={{ backgroundSize: "100%" }} // Adjust percentage to control the size
     >
       {/* Goalkeeper */}
       <div className="row-start-1 col-start-3 flex justify-center items-center">
