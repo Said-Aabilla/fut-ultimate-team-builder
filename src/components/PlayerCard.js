@@ -1,4 +1,26 @@
-const PlayerCard = ({ label }) => {
+const PlayerCard = ({ player }) => {
+
+  // Build the stats dynamically for players based on their position
+  const stats = player.position === "GK" 
+    ? {
+        diving: player.diving,
+        handling: player.handling,
+        kicking: player.kicking,
+        reflexes: player.reflexes,
+        speed: player.speed,
+        positioning: player.positioning,
+      }
+    : {
+        pace: player.pace,
+        shooting: player.shooting,
+        passing: player.passing,
+        dribbling: player.dribbling,
+        defending: player.defending,
+        physical: player.physical,
+      };
+
+
+
     return (
       <div className="relative w-32 h-44"> {/* Set the card dimensions */}
         {/* Background for the player */}
@@ -8,7 +30,8 @@ const PlayerCard = ({ label }) => {
             backgroundSize: "90%",
             backgroundRepeat: "no-repeat",
           }}
-        ></div>
+        >
+        </div>
         
         {/* Background for the position */}
         <div 
@@ -20,7 +43,7 @@ const PlayerCard = ({ label }) => {
         >
           {/* Text Label */}
           <span className="text-sm text-white font-bold flex items-center justify-center h-full">
-            {label}
+            {player.position}
           </span>
         </div>
       </div>

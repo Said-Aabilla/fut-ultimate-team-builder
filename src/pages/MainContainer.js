@@ -1,13 +1,14 @@
-import AddPlayerForm from "../components/AddPlayerForm";
 import SowPlayersLists from "../components/ShowPlayersLists";
+import SideSection from "../components/SideSection";
 import StadiumSection from "../components/StadiumSection";
 
 const MainContainer = () => (
     <>
-        <div className="mt-5 grid grid-cols-3 h-screen">
+        <div className="mt-5 grid grid-cols-[repeat(auto-fit,minmax(300px,1fr))] h-screen border">
             <StadiumSection />
-            <AddPlayerForm />
+            <SideSection />
         </div>
+
         <SowPlayersLists />
     </>
 

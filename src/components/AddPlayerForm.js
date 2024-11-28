@@ -1,6 +1,6 @@
 const AddPlayerForm = () => (
-    <div className="col-span-1 bg-white p-4 shadow-lg transform scale-90 h-3/4	">
-      <h2 className="text-xl font-bold mb-4">Add a Player</h2>
+    <div className="bg-gray-200 p-4 shadow-lg transform ">
+      <h2 className="text-xl font-bold mb-4 text-center">Add a Player</h2>
       <form className="space-y-4">
         {[
           { id: "name", label: "Name", type: "text" },

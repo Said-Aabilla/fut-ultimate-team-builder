@@ -3,47 +3,52 @@ import PlayerCard from "./PlayerCard.js";
 
 
 const StadiumSection = () => (
-  <div className="col-span-2 relative transform scale-90">
-    <div
-      className="bg-team-stadium bg-no-repeat bg-center absolute inset-0 grid grid-rows-6 grid-cols-5 gap-2"
-      style={{ backgroundSize: "100%" }} // Adjust percentage to control the size
-    >
-      {/* Goalkeeper */}
-      <div className="row-start-1 col-start-3 flex justify-center items-center">
-        <PlayerCard label="GK" />
-      </div>
-
-      {/* Defenders */}
-      {["LB", "CB", "CB", "RB"].map((label, index) => (
+    <div className="col-span-2 relative transform scale-90 border">
         <div
-          key={label}
-          className={`row-start-2 col-start-${index + 1} flex justify-center items-center`}
+            className="bg-team-stadium bg-no-repeat bg-center absolute inset-0 grid grid-rows-8 grid-cols-12 gap-5"
+            style={{ backgroundSize: "100%" }} // Adjust percentage to control the size
         >
-          <PlayerCard label={label} />
-        </div>
-      ))}
+            {/* Goalkeeper */}
+            {/* <div className="row-start-7 col-start-6 ml-4 ">
+                <PlayerCard label="GK" />
+            </div> */}
 
-      {/* Midfielders */}
-      {["CM", "CM", "CM"].map((label, index) => (
-        <div
-          key={label}
-          className={`row-start-4 col-start-${index + 2} flex justify-center items-center`}
-        >
-          <PlayerCard label={label} />
-        </div>
-      ))}
+            {/* Defenders */}
+            {/* <div className="row-start-5 col-start-3 flex gap-14">
+                {["LB", "CB", "CB", "RB"].map((label, index) => (
+                    <div
+                        key={label}
+                    >
+                        <PlayerCard label={label} />
+                    </div>
+                ))}
+            </div> */}
 
-      {/* Forwards */}
-      {["LW", "ST", "RW"].map((label, index) => (
-        <div
-          key={label}
-          className={`row-start-6 col-start-${index * 2 + 1} flex justify-center items-center`}
-        >
-          <PlayerCard label={label} />
+
+            {/* Midfielders */}
+            {/* <div className="row-start-3 col-start-4 flex gap-16">
+                {["CM", "CM", "CM"].map((label, index) => (
+                    <div
+                        key={label}
+                    >
+                        <PlayerCard label={label} />
+                    </div>
+                ))}
+            </div> */}
+
+            {/* Forwards */}
+            {/* <div className="row-start-1 col-end-5 flex gap-5 ml-8">
+
+                {["LW", "ST", "RW"].map((label, index) => (
+                    <div
+                        key={label}
+                    >
+                        <PlayerCard label={label} />
+                    </div>
+                ))}
+            </div> */}
         </div>
-      ))}
     </div>
-  </div>
 );
 
 
