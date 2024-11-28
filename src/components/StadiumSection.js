@@ -1,5 +1,5 @@
 import PlayerCard from "./PlayerCard.js";
-
+import { dummyGoalKeeper } from "../utils/dummyData.js";
 
 
 const StadiumSection = () => (
@@ -9,44 +9,44 @@ const StadiumSection = () => (
             style={{ backgroundSize: "100%" }} // Adjust percentage to control the size
         >
             {/* Goalkeeper */}
-            {/* <div className="row-start-7 col-start-6 ml-4 ">
-                <PlayerCard label="GK" />
-            </div> */}
+            <div className="row-start-7 col-start-6 ml-4 ">
+                <PlayerCard player={dummyGoalKeeper} />
+            </div>
 
             {/* Defenders */}
-            {/* <div className="row-start-5 col-start-3 flex gap-14">
+            <div className="row-start-5 col-start-3 flex gap-14">
                 {["LB", "CB", "CB", "RB"].map((label, index) => (
                     <div
                         key={label}
                     >
-                        <PlayerCard label={label} />
+                        <PlayerCard player={dummyGoalKeeper} />
                     </div>
                 ))}
-            </div> */}
+            </div>
 
 
             {/* Midfielders */}
-            {/* <div className="row-start-3 col-start-4 flex gap-16">
+            <div className="row-start-3 col-start-4 flex gap-16">
                 {["CM", "CM", "CM"].map((label, index) => (
                     <div
                         key={label}
                     >
-                        <PlayerCard label={label} />
+                        <PlayerCard player={dummyGoalKeeper} />
                     </div>
                 ))}
-            </div> */}
+            </div>
 
             {/* Forwards */}
-            {/* <div className="row-start-1 col-end-5 flex gap-5 ml-8">
+            <div className="row-start-1 col-end-5 flex gap-5 ml-8">
 
                 {["LW", "ST", "RW"].map((label, index) => (
                     <div
                         key={label}
                     >
-                        <PlayerCard label={label} />
+                        <PlayerCard player={dummyGoalKeeper} />
                     </div>
                 ))}
-            </div> */}
+            </div>
         </div>
     </div>
 );

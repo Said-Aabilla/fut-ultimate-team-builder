@@ -164,7 +164,7 @@ export const dummyPlayersData = [
  
   
 
-  export const dummyGoalKeeper = [{
+  export const dummyGoalKeeper = {
     name: "Jan Oblak",
       photo: "https://cdn.sofifa.net/players/200/389/25_120.png",
       position: "GK",
@@ -179,7 +179,7 @@ export const dummyPlayersData = [
       reflexes: 92,
       speed: 50,
       positioning: 88
-  }];
+  };
 
 
   
