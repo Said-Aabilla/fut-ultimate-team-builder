@@ -1,24 +1,13 @@
-import { useState } from "react";
+import React, { forwardRef } from "react";
 
-const CustomInput = ({ name, label, type, options, inputStyle, onChange, value }) => {
-  
-  const [inputValue, setInputValue] = useState(value || null)
-
-  const handleChange = (event) => {
-    console.log(event.target)
-    setInputValue(event.target.value) ;
-    if (onChange) onChange(event);
-  };
-
+const CustomInput = forwardRef(({ name, label, type, options, inputStyle, onChange }, ref) => {
   return (
-    <div className="mb-4">
-      <label htmlFor={name} className="block text-sm font-medium mb-1">
-        {label}
-      </label>
+    <div>
+      {label && <label htmlFor={name} className="block text-sm font-medium mb-1">{label}</label>}
       {type === "select" ? (
-        <select id={name} name={name} className={inputStyle} onChange={handleChange}>
-          {options.map((option, index) => (
-            <option key={index} value={option.value}>
+        <select id={name} name={name} className={inputStyle} onChange={onChange}>
+          {options.map((option) => (
+            <option key={option.value} value={option.value}>
               {option.label}
             </option>
           ))}
@@ -28,13 +17,13 @@ const CustomInput = ({ name, label, type, options, inputStyle, onChange, value }
           id={name}
           type={type}
           name={name}
+          ref={ref} // Forward the ref here
           className={inputStyle}
-          onChange={handleChange}
-          value={inputValue}
+          onChange={onChange}
         />
       )}
     </div>
   );
-};
+});
 
 export default CustomInput;
