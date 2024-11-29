@@ -1,5 +1,5 @@
 import { useState } from "react";
-import CustomInput from "./Input";
+import CustomInput from "./CustomInput";
 
 
 const AddPlayerForm = () => {
