@@ -34,6 +34,16 @@ const AddPlayerForm = () => {
     { value: "DF", label: "Defender" },
   ];
 
+  const handleFormSubmit = (e) => {
+    //add player to the players list
+
+    e.preventDefault()
+    e.target.reset()
+    console.log(playerData);
+    
+  }
+
+
   const handleInputChange = (event) => {
     const { name, value } = event.target;
     setPlayerData((prev) => ({
@@ -81,7 +91,7 @@ const AddPlayerForm = () => {
   return (
     <div className="bg-gray-200 p-4 shadow-lg transform">
       <h2 className="text-xl font-bold mb-4 text-center">Add a Player</h2>
-      <form className="space-y-4">
+      <form className="space-y-4" onSubmit={handleFormSubmit}>
         {/* Player Photo and Upload */}
         <div className="flex gap-2 items-center">
           {/* Photo Upload Placeholder */}

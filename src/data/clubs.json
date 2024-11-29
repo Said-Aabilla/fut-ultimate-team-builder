@@ -1,0 +1,3139 @@
+[
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0f5f1b415788c03a743b0d898ccba3af",
+    "name":"Arsenal"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/2.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=54cd239ece2af92d9f792165557828f9",
+    "name":"Aston Villa"
+ },
+  {
+        
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/3.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3e2d273b2499c550e9d583fbdf31d292",
+    "name":"Blackburn Rovers"
+  },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/4.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6ce74535221fdb0a796f6330e7c67952",
+    "name":"Bolton"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/5.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a95904bd7ea09c4e68243f801a89bf88",
+    "name":"Chelsea"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/7.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5be082478286830c241325fb15a9585d",
+    "name":"Everton"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/8.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e2a3b22680a46bcdae71f8e650b7200f",
+    "name":"Leeds United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/9.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=57ffc54f58dce3d534f1cc8447eb70c6",
+    "name":"Liverpool"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/10.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=95cbb451617b845465701b79e8fbc3a7",
+    "name":"Manchester City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/11.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d634f823d355069c2550a1af0508d0b6",
+    "name":"Manchester Utd"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/12.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=eb3c0797374a7c91fad6d492d2a44cf9",
+    "name":"Middlesbrough"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/13.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1f2dcb5e475d9c0f535238c247f734f9",
+    "name":"Newcastle Utd"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/14.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1a37f7728afb812fd96fa131238f3823",
+    "name":"Nott'm Forest"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/15.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7039f593956659b7847c143f9f325727",
+    "name":"QPR"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/17.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=af314b5587c3cc402cd40784e876a447",
+    "name":"Southampton"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/18.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=359912ffc5447d620c7db87c69e8ef65",
+    "name":"Spurs"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/19.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1fb74379bc5c46c805778ca0025641fc",
+    "name":"West Ham"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/21.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e3b8047ca7192b7dcb2ea63bd0d03ce8",
+    "name":"FC Bayern München"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/22.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=610202ab57221514d872d7c05d922e1e",
+    "name":"Borussia Dortmund"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/23.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a66b8ecd86e6c0f1c8d57cbf211151b4",
+    "name":"M'gladbach"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/25.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fa48b5114ca8c979948ecb75c106da49",
+    "name":"SC Freiburg"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/27.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=dc0f56b9cfba2fe906344b725a313563",
+    "name":"Hansa Rostock"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/28.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=cac48bb6814e9271b8910870e5f94624",
+    "name":"Hamburger SV"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/29.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4845727ec70e5c89f4e60e285d367551",
+    "name":"Kaiserslautern"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/31.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=750391a1348c0ceed286c836c205d804",
+    "name":"1. FC Köln"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/32.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=818256a897615c9c2c785a949fa03453",
+    "name":"Leverkusen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/33.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=378460088cb78d01a5945260431ddcea",
+    "name":"1860 München"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/34.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=56cd24df37579679f62b698ac3ae43a6",
+    "name":"FC Schalke 04"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/36.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d898d9e3626af1c75a3a8082a2c74e98",
+    "name":"VfB Stuttgart"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/38.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9653dbcfd62d1738d9a12827d1d0835b",
+    "name":"SV Werder Bremen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/45.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f1f8808346246870756ad5d8228e986d",
+    "name":"Juventus"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/47.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a9067499062a84a811320e43ab18a7ab",
+    "name":"Milan"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/48.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=83a1faf5e973a7823cdff986546350e9",
+    "name":"SSC Napoli"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/50.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f93c2c5286653b083ebbcb074f0eb5da",
+    "name":"Parma"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/52.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2064ddd0b6eb32fdae1b1b4f4338abdc",
+    "name":"AS Roma"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/54.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=204c72368f1a12646badbfe010c694b1",
+    "name":"Torino"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/55.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=827cda026aebf3a693d2fcfb2b7c4cc5",
+    "name":"Udinese"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/57.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c4bccf9361f8e3c34d3e069449fc9505",
+    "name":"AJ Auxerre"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/58.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6189ac195f3fe73a8e8331cc579d3966",
+    "name":"SC Bastia"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/59.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0e196e52cb616515ed46ed08efd7d6ce",
+    "name":"Bordeaux"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/62.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9bd59b778da036e76357ac27ad1f7a47",
+    "name":"En Avant Guingamp"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/64.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e7d69b35ece6daa7e265cbca54bcb080",
+    "name":"RC Lens"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/65.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=77b8725c79344da8d4affd103b85ccb8",
+    "name":"LOSC Lille"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/66.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=62432cd48b93bdbc1ff13fad72fbd5a3",
+    "name":"OL"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/67.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=30de7503e293d216fa6218d6127a211e",
+    "name":"FC Martigues"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/68.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5c4c1f653015dc74c51587a2410756eb",
+    "name":"FC Metz"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/69.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7914eca3cf014ba8d7981b8dd9b9e9eb",
+    "name":"AS Monaco"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/70.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0a1c11e84368685eb99a1e1c48e2ea4e",
+    "name":"Montpellier"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/71.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=921f60d9734bef43a03d4826cc413cee",
+    "name":"FC Nantes"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/72.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=21619a6f4ea35037fededc2772d7378e",
+    "name":"OGC Nice"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/73.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0f38a396c70909e8d42f5c5df7106dfc",
+    "name":"Paris SG"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/74.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e0d7eec79e935cc56beb42dd2dee0e45",
+    "name":"Stade Rennais FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/76.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3980e1990c8691c8721d9e9d1e3e9b48",
+    "name":"Strasbourg"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/77.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a2e1a3a1e89424e80ee48d2962395288",
+    "name":"Aberdeen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/78.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0733268e619476ac5b34da5828c283c5",
+    "name":"Celtic"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/80.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9e0d0935530181fa493a3442132991e2",
+    "name":"Hearts"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/81.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=94352e8129ffc091b8bec57c104f8e53",
+    "name":"Hibernian"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/82.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a7dceb91ed9c1a518dd05d1dd087cc36",
+    "name":"Kilmarnock"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/83.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b49d74af2bc03680c02fe573e6f74cc8",
+    "name":"Motherwell"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/86.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8e1dc539f277eb00f0d0200699d14f86",
+    "name":"Rangers"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/88.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e8ace1b6670afc04aa0f23636330e15a",
+    "name":"Birmingham City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/89.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=06fc1ade90064f22a6bde28b4a0644b3",
+    "name":"Charlton Ath"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/91.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1b723871b301f26264b49d3969b167d3",
+    "name":"Derby County"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/92.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5d46217c9392bd024eb7021ba1fa523b",
+    "name":"Grimsby Town"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/94.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=18fc95f322545d71ec5324ad6a12f113",
+    "name":"Ipswich"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/95.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a56be6b86c1de4f7cadd2a7ec3851db7",
+    "name":"Leicester City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/97.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f56c87e0612b39ddb5b9fb8bd013506d",
+    "name":"Millwall"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/106.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=df636c0bfaed6b4c9268370f50831533",
+    "name":"Sunderland"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/109.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c492927e7c73e51ba955c1a2c7c4f9c3",
+    "name":"West Brom"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f2f60a1fe3b4e59ca0a9c113c5adfdb5",
+    "name":"Wolves"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/121.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d80ab5c8cbb3c7142cd4072706b31fc1",
+    "name":"Crewe Alexandra"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/127.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=21591f8d954fbb9f0d77c03e198fd8e7",
+    "name":"Shrewsbury"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/142.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fde2199fea6f4775a26b21882ce066ae",
+    "name":"Doncaster"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/143.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4a872d910bd71f8dd26e7bc4669ecc8f",
+    "name":"Exeter City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/144.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b36b0a60cf2cc1b359946bcb8f4b307c",
+    "name":"Fulham"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/149.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ec81de7019173492cb459f4bd9bc0b59",
+    "name":"Lincoln City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/159.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=56856f745e42e1fbe56eaf96e6f57f6c",
+    "name":"Arminia Bielefeld"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/160.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e0ca1ad5aaeb66d1d65cd0c47da7c6c2",
+    "name":"VfL Bochum"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/162.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b5a53d886584d3e67150ba719561645c",
+    "name":"Energie Cottbus"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/165.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1c438632e5e291047cab1b9e06f54058",
+    "name":"Fürth"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/166.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7696c1f87b30526934a8bb65d75b3f25",
+    "name":"Hertha Berlin"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/169.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e60dae8e34d2fc4ffbcef7c9ee2fc270",
+    "name":"1. FSV Mainz 05"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/171.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a015351a811c49a7f79dc067287fea4a",
+    "name":"1. FC Nürnberg"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/172.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3edd9da404cfff9aa754fa55cfff3abf",
+    "name":"Unterhaching"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/175.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=55a89fa2a9ad09bd4f0b7f456d20f2b7",
+    "name":"VfL Wolfsburg"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/180.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=293d7b5546fd00266c198469544a198e",
+    "name":"Dundee FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/181.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=66f29d73cf5a14f50896fe2cff9dd0b4",
+    "name":"Dundee United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/189.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=11e1824deab8d01c24b21d3ce4c9d9d6",
+    "name":"Bologna"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/191.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2e88a8f01a7c651be8861c5f4ae31569",
+    "name":"RB Salzburg"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/205.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fa86e7cbddfa4068f5a9e6698cfdd61f",
+    "name":"Venezia"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/206.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c816e0456ed2db041d6a09307590f29d",
+    "name":"Hellas Verona"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/209.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=899c041c145fc152c7f440cddb861896",
+    "name":"SK Sturm Graz"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/210.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9e138831692dcf9de0a12b59f575cdce",
+    "name":"SM Caen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/211.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5367599b7b26a7af1d07200387c01f89",
+    "name":"Dinamo Zagreb"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/217.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1479c139e768ff06b87b03eca0960feb",
+    "name":"FC Lorient"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/219.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1682cbd25ef8c88f4ce8e42b6eaf9b2d",
+    "name":"OM"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/229.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=45b97d77c5ccc1c838aba8b2265e11ef",
+    "name":"RSC Anderlecht"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/230.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=751ae91683256a411caf3fc9df7b413e",
+    "name":"Royal Antwerp FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/231.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0831fc0874607dd893db3390bb6feb7d",
+    "name":"Club Brugge"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/232.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a4999e90843f8e8b960b2fef16671384",
+    "name":"Standard Liège"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/234.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f78914337845b630f9a46a5aff9fe904",
+    "name":"SL Benfica"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/236.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ea0b067876d006cb2f28c732e7b813cd",
+    "name":"FC Porto"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/237.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f4c8677ffca9a2c2aff64ed2862500fe",
+    "name":"Sporting CP"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/240.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c11cce2f95472cd8029518f50f33b072",
+    "name":"Atlético de Madrid"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/241.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2e69666cf40b727b95e8a7d9c6f826c0",
+    "name":"FC Barcelona"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/242.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=84a75a1b6520dcabb0c550cd0188d352",
+    "name":"RC Deportivo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/243.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bb98e3479ba0959fdb7031ce0834fc3f",
+    "name":"Real Madrid"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/244.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8ba96423a89fa8e9ea012e78b78ad970",
+    "name":"Real Zaragoza"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/245.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d1c4b683963c19657d590f58ba0d2b9e",
+    "name":"Ajax"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/246.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7a8b0db07ffdae23b2ff16e3d905d2c4",
+    "name":"Feyenoord"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/247.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0d85863a2e4dfc5122b8a8caf131fc0f",
+    "name":"PSV"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/252.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2b9e20e68c626c07711d0924300b2768",
+    "name":"LASK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/254.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2d4c06768452f32d29d925dfb41c804a",
+    "name":"SK Rapid Wien"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/256.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f3e022cb265d296f8676125acdd77dbf",
+    "name":"FK Austria Wien"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/260.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=79129228938c474c6894a5a5fb0be3e0",
+    "name":"CD Tenerife"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/263.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8ef65add300ac1fabe8ffea8e7244e1a",
+    "name":"Hajduk Split"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/266.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4f5c47e090243b86b44b038aaae55a6a",
+    "name":"Slavia Praha"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/267.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=09bcb3edaf2d69d209d3d513d72c3108",
+    "name":"Sparta Praha"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/269.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ad3dd2a4ece48df6d07d25de4cd48997",
+    "name":"Brøndby IF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/270.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6704c1340a4191f6b3ecea22afbfc5ae",
+    "name":"Silkeborg IF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/271.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0a3c1c9ab3d9213c08ee12dda7bb59e3",
+    "name":"AGF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/272.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=78f81f4a1ae343b93f08c84a0d44f179",
+    "name":"Odense BK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/278.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=02e1306730d0930eb1ea220e239c66ac",
+    "name":"AEK Athens"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/280.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9b152361f63421bb0e8f05dc96fb8dc3",
+    "name":"Olympiacos FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/294.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fbe399acbd67fbe6b0b2778487a254ce",
+    "name":"ESTAC Troyes"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/298.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=def76564f5e192298d5f11091dfc9b17",
+    "name":"Rosenborg BK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/299.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ab620c8423eadf4b945f50527045372d",
+    "name":"Lillestrøm SK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/300.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=13f8a380d76132a84fccdd955bda9873",
+    "name":"Viking FK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/301.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=947f4c5417bf67772f0d00afaf66c2d8",
+    "name":"Widzew Łódź"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/305.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e78229af1782a622f14d3e9aa4503f81",
+    "name":"Bohemian FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/306.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=18bf10da5a489d854ba3b60548cea296",
+    "name":"Shamrock Rovers"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/308.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d265dafe3a411122d2390cde5811a169",
+    "name":"Univ. Craiova"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/310.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=604f540ccae963c783c4a89c4fa7b44d",
+    "name":"FC Rapid 1923"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/319.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3e4e13ad2d6a73d200b1d78d7a5ca66d",
+    "name":"IFK Göteborg"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/320.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2388fb7b1108ce68ca6e4438fc446398",
+    "name":"Malmö FF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/321.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8c8de94733c01efd2e4c4d16ed849ce9",
+    "name":"Halmstads BK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/322.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=dc88d249fdfcae8f5edc7cc17ab9258b",
+    "name":"Grasshopper Club"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/324.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d44a1b5af95696d5454e9245cf2ec267",
+    "name":"Servette FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/325.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=328c757f6536b1a171fc942bafbeae8e",
+    "name":"Galatasaray"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/326.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d16167aff13c66e43d6ca9bf9df366e3",
+    "name":"Fenerbahçe"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/327.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d8861ea383c48c495b7235729659824d",
+    "name":"Beşiktaş"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/347.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=05634bbeaeced21c52083854e542b644",
+    "name":"Lecce"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/357.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d412148795d7a5310e57c791f37a7e6a",
+    "name":"Morecambe"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/361.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2dedc1433cdfb889a488436ac222389d",
+    "name":"Stevenage"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/378.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6c6d8ba99a24f9df33e5a8bd5c109a78",
+    "name":"Stade Brestois 29"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/379.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bd8af3c591c39e878273f52726a8bde9",
+    "name":"Stade de Reims"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/381.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=37aa211c5ad7ac914ac4ae12f6415d8a",
+    "name":"Barrow"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/383.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=16d3ae2d37e7eef2d9d39008176d3979",
+    "name":"Palmeiras"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/393.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e08878e968aa10bc941d372eada4435d",
+    "name":"PAOK FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/417.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bc64c2b2b8977691c1c319b71f145e7c",
+    "name":"Molde FK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/418.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=68c277d6b3eba4d1012417bed8e99e5b",
+    "name":"Tromsø IL"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/420.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=735ff9608cce852b31ff2060658532b3",
+    "name":"Górnik Zabrze"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/422.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f1f165a638e942b4b36fe8a4c6c91dae",
+    "name":"Cork City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/423.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a1590540ae72b88a2c5df5090316065a",
+    "name":"St. Pats"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/433.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f608bf667d4731f58af83d4e4ce41b37",
+    "name":"AIK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/436.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=52b3103b8133715b0666712e7eba95b2",
+    "name":"Trabzonspor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/445.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fb63a80ce587116f4170be340eb4ae0a",
+    "name":"Derry City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/448.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7be932dbc93f4d7bab535c56bea4f4e0",
+    "name":"Athletic Club"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/449.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0fc64c98f3168c686744c767f8b66ce5",
+    "name":"Real Betis"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/450.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ffbc4dbc3f82cc60a48cf61ed71dcb51",
+    "name":"RC Celta"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/452.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3748eb5bc8a46f512366949ab8102ca9",
+    "name":"RCD Espanyol"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/453.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a3c4d094f62ce7da8695f068c32c71d6",
+    "name":"RCD Mallorca"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/456.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4bb3d987809268a2d265c797ba9d18b4",
+    "name":"R. Racing Club"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/457.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=dfce8ecb649cfe71f595f6f94a395df1",
+    "name":"Real Sociedad"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/459.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=166891e6ec4e7c48a6c3ba3440281f1d",
+    "name":"R. Sporting"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/461.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=74c21c13f8e3fcb24af9e31c8e6de18c",
+    "name":"Valencia CF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/462.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=edf39ca69a89dabf736974018e93b130",
+    "name":"R. Valladolid CF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/463.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ed8ec40eb2c9c484fb1a6ba7c70a1b56",
+    "name":"D. Alavés"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/467.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=793f545645caa68f8f49c4ca7ffb16eb",
+    "name":"SD Eibar"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/468.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1fbe62fc6396be0db7c532b473e49a46",
+    "name":"Elche CF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/472.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9f2b24d39dddbdc6cb85945421225608",
+    "name":"UD Las Palmas"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/479.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=03da4e6756dd48c518b4db7208dfc5fd",
+    "name":"CA Osasuna"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/480.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=682554cc462e160783d0d81292344062",
+    "name":"Rayo Vallecano"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/481.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c26d724411641e0de101cdaee6b83b47",
+    "name":"Sevilla FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/483.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5752ce31eea84059dbb16cbc2d367fc2",
+    "name":"Villarreal CF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/485.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f2e4db4a575cb4ce035e7d78c1d7b754",
+    "name":"Hannover 96"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/487.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=cd69d7016576e5f4f82a0baff2b2f0f3",
+    "name":"VfL Osnabrück"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/489.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0d7ae2173364da54dc4f888aa8f312ec",
+    "name":"Farense"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/492.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=560d27ea420f223e13179b2a8013bc41",
+    "name":"Wehen Wiesbaden"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/503.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a8cc4d2bb613a2980cc01a032c871a42",
+    "name":"Dynamo Dresden"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/506.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a475489c2bb63a07f87d15380234bec8",
+    "name":"FC Erzgebirge Aue"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/517.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=06e11a3e5dcdd87134ebbb8da84f5022",
+    "name":"Botafogo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/518.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4795b99ca8a8e5946fdb14e17e5d4190",
+    "name":"GD Chaves"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/523.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=914dff636e6149c4aebed2cc726213a7",
+    "name":"Saarbrücken"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/526.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f4b92479f51aeb6882b3114df433d7f7",
+    "name":"Rot-Weiss Essen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/531.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b9ac2ddc81487463b95578aa6342b4c6",
+    "name":"Preußen Münster"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/537.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=27aa83e45aba9a35ec6a857c4e2f3a29",
+    "name":"FCV Dender EH"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/543.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c5ea2d8a63de0b9dba578faf0228503f",
+    "name":"Jahn Regensburg"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/561.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c78ce78e760ae7f637ebe5a45fedd7b7",
+    "name":"Forest Green"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/563.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bfff273064568cbcf543b5addfc2d6f6",
+    "name":"Sligo Rovers"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/567.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=63f407d536fbdc3b7e0d1f81367b6417",
+    "name":"Fluminense"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/570.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=35369b7dd4f31c04b11b91fb97dafdc0",
+    "name":"Ternana"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/573.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b44949c4b9359d55a5837b4e88ac2ec9",
+    "name":"Málaga CF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/576.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=353756532f6e1f449f848b0719d01353",
+    "name":"Holstein Kiel"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/580.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5930938fc912095b0c24255271780651",
+    "name":"SV Elversberg"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/598.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=60a3807eacbb358b54b711daaa3e76c2",
+    "name":"São Paulo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/605.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0adb71c2b270bd862ec4b2052cac71d0",
+    "name":"Al Hilal"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/607.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d1375bef08873eae1bd45879d3a2c1ef",
+    "name":"Al Ittihad"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/614.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a479e5d6341665a174b8107f36db88b0",
+    "name":"AC Ajaccio"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/621.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=79aa2b9588b443484422e295e8c51c3f",
+    "name":"Livingston"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/631.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=28c83a000c65b5212777185a4ef7379d",
+    "name":"Ross County"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/634.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=34f369be576590840e5c862a1ca43a83",
+    "name":"Fortuna Sittard"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/645.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=44d7d7c648676e0e74ece2b55ad70597",
+    "name":"FC Volendam"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/670.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=cbbec18241f6463f5e27b2d0eb0f0548",
+    "name":"Sp. Charleroi"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/673.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e31b81c0b29cbfa30e85ebe8545ce98e",
+    "name":"KRC Genk"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/674.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7c841257ddf62830922b7af72399b155",
+    "name":"KAA Gent"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/675.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=718227403e4859b3c079dfd9792d53d6",
+    "name":"K. Beerschot VA"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/680.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3426e422f61ae0f1f015c2c7a71dbdb9",
+    "name":"STVV"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/681.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c390a271453da225e2f636d9e59417e2",
+    "name":"KVC Westerlo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/687.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1e5f4ce8b74c4a07b7229e1997b90469",
+    "name":"Columbus Crew"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/688.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b0992bc03290edcb426c10fb39068043",
+    "name":"D.C. United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/689.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c60b7ea381baab9d7c3d5546c29147d5",
+    "name":"Red Bulls"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/691.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1c9ed271214cc5f4ddd4d817968bf0c7",
+    "name":"New England"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/693.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a30321e9d1bc24739fade372f0ef387a",
+    "name":"Chicago Fire FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/694.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=410c5d6512818acc967ebd712b426621",
+    "name":"Colorado Rapids"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/695.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3a17efd942a88a6bd7df1d688f129093",
+    "name":"FC Dallas"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/696.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3aac84761b01174a5832c4ef956babc2",
+    "name":"Sporting KC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/697.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=590cdde2fa48b17f9d40ee59f165e07f",
+    "name":"LA Galaxy"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/698.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8e19d0f028a021999d517d5c76acdd83",
+    "name":"Houston Dynamo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/700.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=84990df6848edcab7227fd5efc853a20",
+    "name":"IF Elfsborg"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/702.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=11b8d348e2c7aec261b854652ded35f5",
+    "name":"IFK Norrköping"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/708.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=aed268b421e6868523e91fbe3d446a00",
+    "name":"Hammarby IF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/710.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a1dc9a69fe2137407043535a1e7ae181",
+    "name":"Djurgårdens IF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/711.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a01287451de107bc5904bdece53fef19",
+    "name":"BK Häcken"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/718.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=dd0b12e531ab430556713b54dfde4d2a",
+    "name":"Estrela Amadora"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/741.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fbd05e670697ce97611263a06b861b29",
+    "name":"Antalyaspor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/744.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2719f2d88bb39ea444d7de1ab96cc5ea",
+    "name":"Rio Ave FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/746.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8cc27a7ec973ba8e0bb457f6efc65dc1",
+    "name":"İstanbulspor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/748.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=42f9e05abf6355354d85a8b0e6d72423",
+    "name":"Samsunspor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/753.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2c32444c13c4cf7f7988e3a97d046bcc",
+    "name":"Waterford"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/781.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0c297e719bef4fbf544ba6b07179e51f",
+    "name":"SC Austria"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/819.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=05acd95e421740f15bb6b6f731c35424",
+    "name":"F.C. København"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/820.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b740a7d6e0c47219b907bc86480a1010",
+    "name":"AaB"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/822.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3ae90ef442c7778ada25e60ed48bb593",
+    "name":"Vejle Boldklub"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/834.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1c3a803cb71db2ce9ff787f4d42ec21e",
+    "name":"Shelbourne"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/837.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=96069a037f7273d8308ae65d3e870ab9",
+    "name":"Dundalk"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/873.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4ef975b6b511b89ce23890e22bf012cf",
+    "name":"Lech Poznań"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/874.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e8afb3a755aa57805147194a7f3d5b8b",
+    "name":"Ruch Chorzów"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/894.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c92d86072b049ac4111cf61434e85396",
+    "name":"FC Zürich"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/896.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2996deb81212f761a478bc1549516f4c",
+    "name":"FC Basel 1893"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/897.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a23a3f780209177c57880758ed1617bb",
+    "name":"FC Luzern"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/898.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=304f16f5182e348253e43930bcdf6340",
+    "name":"FC St. Gallen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/900.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b307138380f9d4b80d7851dc1e9799df",
+    "name":"BSC Young Boys"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/917.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0b63cb73dd15c1b1a08eda93b60c7fdf",
+    "name":"Stabæk Fotball"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/918.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e376a4917c7407b44cd7b71c9abb4453",
+    "name":"FK Bodø/Glimt"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/919.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=50603bb695095be1912246453b9b2645",
+    "name":"SK Brann"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/920.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0120441dce5610b62a13e2a079b85a10",
+    "name":"Vålerenga Fotball"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/922.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3d10eb74c7814eb9396c43659e290c54",
+    "name":"Strømsgodset IF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/980.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8425f60e59ec84281d1c83fd5707747d",
+    "name":"Daejeon Citizen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/982.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a6302bccf2cd6d2740987237ac7b6ec5",
+    "name":"FC Seoul"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/983.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=14eeadfa3eefe639ece5f16f4d965b8a",
+    "name":"Suwon Samsung"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1013.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=368d0a7cc5af08b22a062f1c16fc60de",
+    "name":"San Lorenzo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1035.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9100f83f503b5584af81297529153a37",
+    "name":"Atlético Mineiro"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1039.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=dc99f61c3ba6f28671a1f801b8c27ce4",
+    "name":"Athletico-PR"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1041.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ca562c00d1396d6ce41f5ebd124af597",
+    "name":"Corinthians"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1043.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d3955d6fa93371d98023cf719be67d77",
+    "name":"Flamengo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1048.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2e52e840706c83417480778975c857b9",
+    "name":"Internacional"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1053.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0151ce768da0130e07f497d66a200fd5",
+    "name":"Santos"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1438.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=daeb7c12c1230a27a2bf3b837bd5eb40",
+    "name":"Santa Clara"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1439.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=36f57b3ccecc7b7df6c0a7cd1c2048ef",
+    "name":"Kalmar FF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1443.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0068a7790be316a0597b3a3a1b50e06e",
+    "name":"Viborg FF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1447.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d1c0d3a3c1526dbcde6aa9d4a8725c3f",
+    "name":"Sønderjyske"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1456.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7b75a99e4d978381657fbd5723a22822",
+    "name":"Odds BK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1463.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f1d3008be055115d3672c1fdfa25247c",
+    "name":"FK Haugesund"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1473.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4158020bd9573851641eff2af1144a96",
+    "name":"Ulsan Hyundai"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1474.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=dac00e759621c3a540e770a893794bc4",
+    "name":"Pohang Steelers"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1477.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c8c15593f6342669d46519641e0ed168",
+    "name":"Jeonbuk Hyundai"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1478.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=689fc13fe7554b4a67d3cb6bd9259f94",
+    "name":"Jeju United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1480.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d522479150261ae2f685486a22883abb",
+    "name":"Carlisle United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1516.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0a4ccee3d7de7364664e760fa3c12790",
+    "name":"FC Midtjylland"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1530.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0e2cbe4459ab71e367e299700a2fe202",
+    "name":"Angers SCO"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1571.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2931631f82cbbb21be1a02d6148ddbce",
+    "name":"Galway United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1572.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9d2efb5de2a6ad9570e5055e463ccf47",
+    "name":"Drogheda United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1704.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ba4ab4f4709dc75fde914e9968df564e",
+    "name":"Yverdon Sport FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1713.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bc82fc34e813cc52c64be89d6ab7ac01",
+    "name":"FC Winterthur"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1738.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5665ac9c22940596ddf10bb6a98b6f10",
+    "name":"Havre AC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1744.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=cfc52fe8a39a5b995a6614bb72465d4d",
+    "name":"Modena"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1745.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2c6518c738b68c417cd17d3a688fe07e",
+    "name":"Como"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1746.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d192bf67ac5ec27c9260e2ff24b42565",
+    "name":"Empoli"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1750.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=007795141f3e7e254648c57df3557833",
+    "name":"Cercle Brugge"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1755.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3419d1bcc385c4d46568ed1441feaf7e",
+    "name":"Aalesunds FK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1756.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=007610acb2f340e29962e99f38f57c77",
+    "name":"HamKam Fotball"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1757.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=32b30c52553c56109ce2a71c6be48a51",
+    "name":"Sandefjord"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1786.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b81b1022414a7edde2046a97261e0511",
+    "name":"Randers FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1787.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8bfca0ec69aa5f9279c24a213a1e29e0",
+    "name":"Austria Klagenfurt"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1788.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=62fd63d93ee6a7dd355ce2195f7bdca4",
+    "name":"FC Nordsjælland"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1790.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=943aeb68a7d0baa89f0cd3bb44b87e13",
+    "name":"Portsmouth"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1792.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6afc24acbfd89920e6f54938c71b812b",
+    "name":"Norwich"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1793.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c3c2f1251785b0c94ab406318ee23102",
+    "name":"Reading"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1794.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=12822d6379b674c7ad818cd137a5a4ef",
+    "name":"Sheffield Utd"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1795.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9e78f6673f195d5f13002d6a08ec7df8",
+    "name":"Watford"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1796.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d86ed1565cda3d2d83fc368cddde9010",
+    "name":"Burnley"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1797.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=613da097306c8309c19523389173161d",
+    "name":"Rotherham Utd"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1798.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=52716a7d6c24f483b7167a3221001cac",
+    "name":"MK Dons"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1799.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=de6ee2b87e70ec2c362c1bc473c1390a",
+    "name":"Crystal Palace"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1800.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ebcb63b3f396c879de368573d9c8d0ef",
+    "name":"Coventry City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1801.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6b2125c564fa3549eb46d47348063c33",
+    "name":"Preston"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1802.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=847795573b831177d9e39df06b91ebae",
+    "name":"Gillingham"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1803.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bc8d545d5ff2af79f435e8e2b2edd541",
+    "name":"Walsall"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1804.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2fc1f4bee2015e2fd17bb5312cd28c68",
+    "name":"Bradford City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1805.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=93886d0a765cc34e2db88218ae55b12c",
+    "name":"Grenoble Foot 38"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1806.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=56572e8f20c21aae2557083cff0a2132",
+    "name":"Stoke City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1807.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=315f6371aac9a972fd1613465243d59d",
+    "name":"Sheffield Wed"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1808.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bf67c5cd642f5a943c998031e6d756aa",
+    "name":"Brighton"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1809.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1e1b32897b391a6c34886505332972e0",
+    "name":"Toulouse FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1814.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d7a794b103face6777211c94c010945b",
+    "name":"Stade Lavallois"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1815.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=48a6700d46f817b3c5ed4ecf3ef56ca5",
+    "name":"Clermont Foot 63"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1816.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e9f311ee5f2a6ac64bedb634477ad6c4",
+    "name":"Amiens SC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1819.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e593c7e90b7a87686bd530925f592111",
+    "name":"AS Saint-Étienne"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1824.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bfc1951b21d63e62a09c3bf265d6c0a7",
+    "name":"Frankfurt"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1825.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bd19961d7550259663ec3a0f74fd477c",
+    "name":"MSV Duisburg"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1826.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a40ea5fd69631468b23b1e6c570dc8be",
+    "name":"Aleman. Aachen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1829.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4b31680bbf297c0babe48e08d0ca2887",
+    "name":"VfB Lübeck"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1831.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=cd78c59d82a4a7bf2cabcbb63964ea4c",
+    "name":"Union Berlin"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1832.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fcf4c25eb5134641298e0a3d0bbc946e",
+    "name":"Karlsruher SC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1837.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3f52c14bb4ff064223a3655566918311",
+    "name":"Sampdoria"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1842.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=549eb414849ba495b06db7e0df32688d",
+    "name":"Cagliari"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1843.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=df51bede5969e776df2156b891f02d0c",
+    "name":"Palermo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1846.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0da64f56edf643a356265b6c4e2fb1e5",
+    "name":"Borgocalcio"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1847.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=155845811e4a2fe011d4a813f670a8be",
+    "name":"Ascoli"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1848.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=20e5227f4320790a2ff90dabcbde73d5",
+    "name":"Bari"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1853.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5735a0fa7ec6c150bd4c69b587e68cf0",
+    "name":"Levante UD"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1854.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=05a7b7dd215e8f3db915fff155615dc1",
+    "name":"Albacete BP"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1860.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f3aa45f2e7561bd586680843c3a4c3da",
+    "name":"Getafe CF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1861.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2c3ca250848c86733a2f6a0eceafb79f",
+    "name":"UD Almería"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1862.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5fae2b1a665d523cd720e66ec9700af9",
+    "name":"Lausanne-Sport"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1867.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8b0312e697b6b6bf6968630e9b8a8631",
+    "name":"Córdoba CF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1871.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=95a102409ac663ef114088772e2a4511",
+    "name":"Legia Warszawa"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1874.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=99e06578e488a2cecb44b9696b652830",
+    "name":"Ferencvárosi TC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1876.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fc4eee5d25a27887eb6de74c073d5ae2",
+    "name":"River Plate"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1877.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=50d335397832fa768a7124b80df269e5",
+    "name":"Boca Juniors"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1884.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=cfefdab419e6145f1a079ec7e8263c9a",
+    "name":"Panathinaikos"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1887.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a4c839acb7faee36b5e3b0feaae31bbe",
+    "name":"Vitória SC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1888.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e98268d38aa087e070d73ecdb9494a4a",
+    "name":"Gil Vicente"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1891.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=02b1178e05e4e2a278cde2d5120dd7b2",
+    "name":"Nacional"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1896.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2cc252255deea7a6f6d086a5a5451a84",
+    "name":"SC Braga"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1898.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=59850d241c97ce85d0435441e4f8e621",
+    "name":"Boavista FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1900.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fba739d4c8351e93d0d110a1d51c61c2",
+    "name":"Moreirense FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1903.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0bbfeae681730e25aaa84a3e991a2780",
+    "name":"FC Utrecht"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1904.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e1ca91c68781c98de6805bbb9292d884",
+    "name":"NAC Breda"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1905.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=112ae71e904c3903f4750d965d5920cb",
+    "name":"RKC Waalwijk"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1906.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1078844add9a97f066256b695dcfa973",
+    "name":"AZ"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1907.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=76a36569507f858eadff9ebb13d413dd",
+    "name":"Willem II"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1908.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d2f5a9143b326f3f76e8dd746ff49a1f",
+    "name":"FC Twente"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1909.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ff07d4dd01d585f77e6afefb3b5f15de",
+    "name":"Vitesse"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1910.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5a5715bd6957036d5433b939cf318c95",
+    "name":"N.E.C. Nijmegen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1913.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=720ba3b6d820a56e704010e692c4e5bb",
+    "name":"sc Heerenveen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1914.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=02913bc46fe889ca340c4adba2401717",
+    "name":"PEC Zwolle"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1915.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a16b38ab238c806255adeeacc7615ea8",
+    "name":"FC Groningen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1917.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=78b17de3873f0136ab11f68931232bc0",
+    "name":"Wigan Athletic"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1919.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6fc3f951f9c94e8ebeb9369f6953bfb2",
+    "name":"Bristol City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1923.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6410f180e4a17947f4a1cd4d6cf56374",
+    "name":"Luton Town"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1924.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fb07b26006a56379047b0a149a04de5c",
+    "name":"Chesterfield"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1925.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=097ff318d110e97a506a1772af6e954b",
+    "name":"Brentford"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1926.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=62c38264a9d4930a82623bc00e756f40",
+    "name":"Blackpool"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1928.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=679075e6618adac85e2166ddd5088ef1",
+    "name":"Port Vale"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1929.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bc562bd97154d2bd81ba011edacffdf9",
+    "name":"Plymouth Argyle"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1930.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=25d6d678ab111e73e4e11b45667b2605",
+    "name":"Northampton"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1931.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2a36f643208e31d745e16b3a359bd55a",
+    "name":"Stockport"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1932.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=554df13a711202c1a84630d094ad19b8",
+    "name":"Barnsley"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1933.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9fcdbee9ddca85805e9de9e2f300ef01",
+    "name":"Wycombe"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1934.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f6fabefee2365e57da700cfa7dfc1652",
+    "name":"Swindon Town"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1935.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2282ef06155f3d07b14081864c5018f3",
+    "name":"Colchester"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1936.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7603f83065248edf1f92f11e9ba778d2",
+    "name":"Cheltenham Town"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1937.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e7d420430ebc9328dd4952fe5e5e9eaf",
+    "name":"Notts County"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1938.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e60acbfbea1a2a641212179502ed7116",
+    "name":"Peterborough"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1939.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2b0778acb54f3e9e42c2d6fdfcc06eea",
+    "name":"Huddersfield"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1940.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0337fce958032b8ed6646e21e29756a6",
+    "name":"Mansfield Town"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1943.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=29dfb4aa6ce05ebdbf3bdb7f8cfdde1c",
+    "name":"AFC Bournemouth"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1944.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fa32e01738e27a635ef4b7e707d0aed7",
+    "name":"Cambridge Utd"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1947.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=85f390735b91a788838a3c87e398bcbd",
+    "name":"Wrexham AFC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1951.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d694e45abc9a9c394f6919857dd0c77f",
+    "name":"Oxford United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1952.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9b5abd2b1c02cb690e4df4a84a7e2418",
+    "name":"Hull City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1958.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=68d7b4226b4dab5dc2b72ca764fe910f",
+    "name":"Leyton Orient"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1960.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=81a643490036c1079f4defa20ba09a77",
+    "name":"Swansea City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1961.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c9a5ae85a7d31510b091ef997f86fe9d",
+    "name":"Cardiff City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1962.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=828bc55c41c73806a014fdc5b8dbb79b",
+    "name":"Bristol Rovers"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1968.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ffe13ddf8b055d37bf7154c8aa35edaa",
+    "name":"Cádiz CF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/1971.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=15ea6143671dab54ad7e6e42167258d6",
+    "name":"Excelsior"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/2002.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2c3ad58f617a52a91d93f9738f5b5874",
+    "name":"Hvidovre IF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/2013.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a9c1870201f570e7ef63ad30f6e65c24",
+    "name":"KAS Eupen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/2014.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a47b470dc44ad4641e9bdf231f59a9bb",
+    "name":"R. Union St.-G."
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/2017.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c887a6f7154bd95da181fb7565d0d647",
+    "name":"TSV Hartberg"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/2041.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9bef3cd0178711a6d59638c3732c7c2c",
+    "name":"Fredrikstad FK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/2055.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f283b2e5cfbd12566019b571b318e699",
+    "name":"Gimcheon Sangmu"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/2056.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=316257ddb8c4884baff302e0a5734f93",
+    "name":"Daegu FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/8001.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0874331b2ab36fcd0a447bccd4dc8a5f",
+    "name":"RWD Molenbeek"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/10020.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=247080df381fdc899489f525552a7f3e",
+    "name":"Estoril Praia"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/10029.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a05245cff61b3f6f3a72678d00f0ad0e",
+    "name":"TSG Hoffenheim"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/10030.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=670d00406d79bc12457d80cb11101811",
+    "name":"SC Paderborn 07"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/10031.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3519cd37f8d9126d5699d58b1cc08d67",
+    "name":"Portimonense SC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/10032.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=12aac47fb110854a2f3d99a89c0b05e2",
+    "name":"FC Lugano"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/10846.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7afd62e62d2f1aea243aa50026a93712",
+    "name":"Burgos CF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/15001.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=da3bd2e8e9b90a60d81ec3ba9b24f660",
+    "name":"Lyngby BK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/15009.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e738e65f5fc3cc6ecfc031a5660fc1dd",
+    "name":"SCR Altach"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/15015.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9ec2e8fcca6febdf1b9be750c8e3e8cb",
+    "name":"Burton Albion"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/15040.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b1d39ba2c8177b97309a5b564ccd9d6f",
+    "name":"WSG Tirol"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/15048.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=dfac63325c8db07eafc7072fe714a8e3",
+    "name":"Tranmere Rovers"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100081.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1b0d1faf40ecb3546ff9d953e2ea7008",
+    "name":"KV Kortrijk"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100087.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5296b5a6e41b91eea8c05020b2d15cb3",
+    "name":"OH Leuven"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100135.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8067978eb8ad04d679059d07e163a261",
+    "name":"Apoel FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100325.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=94b5e893ecab2cfecf9a14c2d43417b1",
+    "name":"HJK Helsinki"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100409.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fdb183a7c87e3d2e4a70df83faae4bbb",
+    "name":"FC Augsburg"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100632.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9d473f94326ff96a4a189bf46236161c",
+    "name":"Go Ahead Eagles"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100634.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4d1b599836cfa6a1eb24b03e4ff42247",
+    "name":"Heracles Almelo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100646.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2da9842e8444c933f09fd5e485dd1485",
+    "name":"Sparta Rotterdam"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100757.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=823d9ffb36c5076171a1a0db5f322c37",
+    "name":"FC Dinamo 1948"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100761.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=08aa088a2f35d986c58744529f69644d",
+    "name":"FCSB"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100804.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6fec82b526391b5c6964ff56e58c4e09",
+    "name":"St. Johnstone"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100805.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=45ebc8c50d8178626770c8e89206f627",
+    "name":"St. Mirren"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100831.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=475388853df09f0fb291f08c3e16eba4",
+    "name":"AD Alcorcón"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100851.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c3d1def0d37a8a249d14fbbcc0149b40",
+    "name":"FC Cartagena"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100852.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9fbc9598ca46cbcfe83e5d327a151892",
+    "name":"CD Castellón"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/100888.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=30bba90f1f4c0e1e11dfd6b6fd991781",
+    "name":"CD Leganés"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101007.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=633263c60b95a3460e233274826ec431",
+    "name":"MKE Ankaragücü"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101014.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e0ef5cfc42a6db3d927e3fa78562ce0b",
+    "name":"Başakşehir"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101016.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f5a36fc030c18fb4292a28ceee2274c4",
+    "name":"Adana Demirspor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101020.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=db923560e8711065e485f46336d4973e",
+    "name":"Kayserispor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101026.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2bc65763a5a4652ba4a7c825b1ae8334",
+    "name":"Göztepe"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101028.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b3b1a21d4ba79770116d26b69f1d644f",
+    "name":"Hatayspor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101033.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e44e633fd29f4030dfaabafec9a725d7",
+    "name":"Konyaspor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101037.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=24eba96a1bb96ee310929cb8338fc5f5",
+    "name":"Çaykur Rizespor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101041.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f0b9d1923b1db5cb1f3f0d2ec46cbfbe",
+    "name":"Sivasspor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101047.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fc96e2ef10de50a50356e434b9af399e",
+    "name":"Dynamo Kyiv"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101059.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a0f61b249468d2527c061cd8d573f919",
+    "name":"Shakhtar Donetsk"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101083.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e88c0fbb81df0aaa305f7ec7703a29d6",
+    "name":"Estudiantes"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101084.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=526c2474c95d69335add046c716e5af0",
+    "name":"Gimnasia"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101085.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=86c89dd9946e91a13ef8ed509a29d139",
+    "name":"Racing Club"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101088.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1060f2f4910f3184a1b26f7c8286d072",
+    "name":"Vélez Sarsfield"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101097.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d1f4d973275bda4217a260c39720f3aa",
+    "name":"Audax Italiano"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101099.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4369e7d73aa267940d1a667e2b0a9336",
+    "name":"América de Cali"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101100.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=85abc71f2900bf1ccba7dd7691aa1ca5",
+    "name":"Atl. Nacional"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101101.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fb57412317b4d5ba9b087a288857ee5f",
+    "name":"Junior"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101103.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=55c07cacb8d3ee0a27e92e16086b0048",
+    "name":"Indep. Medellín"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101104.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a60f3ff1f7d3f57ea7ae302e8ca38d16",
+    "name":"Santa Fe"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101105.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a069df1f3d56e3e93428dca0d8bc3f9e",
+    "name":"Millonarios"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101108.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8a9e96fc1bfdce3c1752ec1117f1e514",
+    "name":"Olimpia"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101109.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=31e14ada354c4740fb7f806282b30dd3",
+    "name":"Defensor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101110.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=62d7a85461a98d4c9e32d1ce2800e172",
+    "name":"Peñarol"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/101112.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4be41799b11c2e122fe494e1a09066b4",
+    "name":"Whitecaps FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110062.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=849e4757de73d26aada341e0dee0aa27",
+    "name":"Girona FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110069.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c870a7da405f7677fd0debb555bb9dbb",
+    "name":"CD Mirandés"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110072.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8d0dfadfd325020321112edbe8393d49",
+    "name":"SC Oțelul Galați"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110075.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1a65194e7e15c312fdc241cf33b03dd0",
+    "name":"Farul Constanța"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110078.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f205dfd4b45b2a61146d12c38b774a19",
+    "name":"FC Petrolul"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110093.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=226f6bb9e3022a2a76d4e3e31ac289f8",
+    "name":"Independiente"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110176.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d859151607d932e552bb45369e535d23",
+    "name":"SSV Ulm 1846"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110178.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=73a79cd6c3cfa231f4c19ff2d5819c2c",
+    "name":"SV Sandhausen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110206.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=20530fbb99d432bc21edbda4c3e66f5a",
+    "name":"GKS Katowice"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110242.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a38e447f7d17ebb115ac367bd57c79cd",
+    "name":"Racing de Ferrol"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110313.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2295b5f2028cbff052385d915a1838a8",
+    "name":"Accrington"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110321.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0eb70d37a7b33d2d769f6d3e5a0c2015",
+    "name":"Pau FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110329.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=619a696cc1e1bb32cfb51aca734a9fb4",
+    "name":"FC St. Pauli"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110373.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b725a4cdee11d5f9d8481f900edb507f",
+    "name":"Salernitana"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110374.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4e9ebcfa946c296f483f5fdeab9a0980",
+    "name":"Fiorentina"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110394.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0c6853d53dbe4c64d066d0a09caf09ba",
+    "name":"Arsenal"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110395.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ed3bc58991709386a464e4e9179a7a42",
+    "name":"Lanús"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110396.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b20d566c988e87edb7166277134c12ed",
+    "name":"Newell's"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110404.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2eee4ff40c2118eba33323df4abe4ccf",
+    "name":"Banfield"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110406.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2aa6df2be392c373df6a9a38963677dc",
+    "name":"Colón"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110456.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0fb07b8950f1506270e63196834c0abe",
+    "name":"Valenciennes FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110468.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=42884ae1c1bf67816f908ddc088d20e1",
+    "name":"Viktoria Plzeň"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110482.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d6e3d5f201da30c931a60ff1e02a97d9",
+    "name":"Hallescher FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110500.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ae321b9bc03d66bb0211052f4ef3925c",
+    "name":"Braunschweig"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110501.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=067f67b0b49c32c12d098f60274a1511",
+    "name":"SC Verl"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110502.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=86069e955f18256c5b485a895e20f3b8",
+    "name":"SV Darmstadt 98"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110532.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=42b52e1581154bb1da2d90d75f79bef7",
+    "name":"SV Waldhof"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110556.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=592699e2369c2af5f93e83a39064b72f",
+    "name":"Genoa"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110580.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ada6ff3e206eed5b653a7b0c521a27c8",
+    "name":"Rosario Central"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110588.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=948a90b07c22db63822ec03508d6ed3b",
+    "name":"1. FC Magdeburg"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110636.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2d191ade491fee28acb1aae6031b3e3f",
+    "name":"Düsseldorf"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110645.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=db254d719e2f198270703ecee694d08f",
+    "name":"Viktoria Köln"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110676.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0fb57d5a7f627598991066ae0e9a81ad",
+    "name":"B. Dortmund II"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110683.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9b4882f1a865546db323eb7fa1105364",
+    "name":"Hannover 96 II"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110691.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a0ccf0831fdbbc179cea50c4dd556447",
+    "name":"SC Freiburg II"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110697.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=31e8a851a03b9ade1d614fad87cbc459",
+    "name":"VfB Stuttgart II"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110720.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9765eb0f367089af567b715a9ce8997f",
+    "name":"Blau-Weiss Linz"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110724.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9c0e164bf2f9b99cfe702fa8b4d3cdc9",
+    "name":"KV Mechelen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110738.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4739a5ee30ebd3784c634eb0ec6e4045",
+    "name":"Pisa"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110740.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=250d228ed0f27fbff8cd099bf841bfe6",
+    "name":"Reggiana"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110745.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=88f68928224bebc0c302b7935c021bba",
+    "name":"Jagiellonia"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110746.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=10b4b6d878031a1b10edbd8385ea2860",
+    "name":"Pogoń Szczecin"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110747.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f1d16482fa63559a2d6e1b90674056a7",
+    "name":"Cracovia"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110749.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6f8c7641948351742d1608c44e4c56fd",
+    "name":"Zagłębie Lubin"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110750.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=dd710ea1b941b72ea6fdbdceeaa9c805",
+    "name":"UTA Arad"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110751.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1e0a226540ba03881827cf9c49c423e2",
+    "name":"FC Univ. Cluj"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110752.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c6d10a703990150d7f7283ece70fab3d",
+    "name":"FC Botoșani"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110765.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=afe7dec4f16e9101d98e95b318570dca",
+    "name":"Incheon United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110770.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0a79db9b3f32fd743b2ae18fa2b0db10",
+    "name":"FC Sion"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110776.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=cf2732a6f89f853d3b168d30c4d4140d",
+    "name":"Gaziantep"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110799.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5d9d21f21e8a5bce5c3b5f3a452c040d",
+    "name":"Sutton United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110815.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2ce2cee6aa1c41331afdc57fa0e5b05d",
+    "name":"Politehnica Iași"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110827.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8fb298d6367251c8e86d38090932c885",
+    "name":"R. Oviedo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110832.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=95d2735a7a304f1592d115c8206f211e",
+    "name":"Granada CF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110839.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=48844f2ae33e51ebf30e7337001e2095",
+    "name":"SD Huesca"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110890.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=08bcad75c2ea7fcde5e05b3fe7ff0b96",
+    "name":"Crawley Town"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110902.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f8819bbe6bd00a20f8f17fca8dbb2f38",
+    "name":"Villarreal CF B"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110908.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=75a5631669da373ecb89e7a9094b7ae5",
+    "name":"Catanzaro"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110915.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=93136a36292323b6dff6593f8d877ff1",
+    "name":"Cesena"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110953.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c12b7bbb840170f9cacb19df6e2672e1",
+    "name":"Instituto"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110955.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=73dc3f68706064099be6e313042f8cfd",
+    "name":"Shanghai Shenhua"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110967.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=014d244c16d0f696ef82e360199cc93b",
+    "name":"Blooming"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110968.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f283e91e7edbd1e5689e89e2f6dc7dfd",
+    "name":"Bolívar"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110969.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4a01992d9b76f3799212a397bc6a5309",
+    "name":"The Strongest"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110970.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e0f9d0564d2bdce1a9e8c2dcb5db1030",
+    "name":"O. Petrolero"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110974.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=937473445f0a2006b799d415abef8f0f",
+    "name":"Wilstermann"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110975.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=db7ad1d5f50e4dd4615295ae4ead5522",
+    "name":"Uni. Católica"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110978.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fcd0def5cda24202f0a12b84e7e2f37c",
+    "name":"Cobresal"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110980.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=99fd30bf433d5b8d85ad584f55be9fc6",
+    "name":"Colo-Colo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110981.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2002069cf09d29353d2302b02cd3005f",
+    "name":"Barcelona SC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110982.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c79b83cac6b10cac58b6ee8102071000",
+    "name":"Dep. Cuenca"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110984.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0b2b989dcf8c6981a5a6d0d7bc829437",
+    "name":"CS Emelec"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110986.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e11a0a16f2c8ac6cd710d25aa515b144",
+    "name":"LDU Quito"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110987.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2b485c856b3b68cc5a76ed1df6165fe2",
+    "name":"Aucas"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110989.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f99ae4d7a958dd128bbea683a8a4ed02",
+    "name":"Caracas F.C."
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110990.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e1b11104416067c423a77f01ffde599f",
+    "name":"Dep. Táchira"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110991.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4288b69f1701fa331dfa95370d5f7235",
+    "name":"Carabobo FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110993.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0e237d1d0123a8cf59f3323e05926ae8",
+    "name":"Monagas SC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/110998.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b0ae17dfe612c7d2083e608db858dd6a",
+    "name":"Danubio"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111001.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a17ed40c69bfd43789307d7ea08e9695",
+    "name":"Wanderers"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111004.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d01ab6feb55080d360ac982792a4b624",
+    "name":"Tacuary"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111006.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=567f0c4d14b09f68d044734fdb71fe5a",
+    "name":"Sportivo Luqueño"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111008.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=124ae5f71f4c64c7f3f98b39bb7b488e",
+    "name":"Libertad"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111010.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=81a6873e9cd90807af1228bd1ad0bfe9",
+    "name":"Alianza Lima"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111011.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9c6df68c7b6e7d6fea852f252da4be09",
+    "name":"Cienciano"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111013.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f6f7661a5920e031aa1c3002f1e32b44",
+    "name":"Sporting Cristal"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111014.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3f34d7c6ddd15af6e4165e53772e3d20",
+    "name":"Universitario"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111019.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e26257ec6e339567b0aa21163368e9ec",
+    "name":"Argentinos Jrs."
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111020.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=93ab85c16c737f5f0ab4ff486e9e10bf",
+    "name":"Ind. Rivadavia"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111022.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f0b790209f2bc873f6684112429e2d70",
+    "name":"Belgrano"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111042.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=21e629f6aa88ecbe723ab538f8cbba40",
+    "name":"Goiás"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111052.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=779e6873396440bee98c0f09276ca8c8",
+    "name":"Fortaleza"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111065.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ec3498c4d0bfa85e8c0661650e0ae063",
+    "name":"Real Salt Lake"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111083.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ba074b7b8281ccedb085090b3c905c6e",
+    "name":"Korona Kielce"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111085.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b46a341d2100e6834314b36982131df9",
+    "name":"ŁKS Łódź"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111086.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1759807a6da4b8978a1255f6fe95c790",
+    "name":"Piast Gliwice"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111088.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2837a3ffe4d931700572082523db9fa8",
+    "name":"Radomiak Radom"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111091.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7ea46227931818f1a59c53bd058ee25e",
+    "name":"Lechia Gdańsk"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111092.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1d28ad65519bb3efc9f5581f57446c28",
+    "name":"Śląsk Wrocław"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111097.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6b6c4194318daa987be74a3ec90e8a43",
+    "name":"Motor Lublin"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111117.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2fcf1346ff40ed68c616b86d217bda09",
+    "name":"Karagümrük SK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111132.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=110704149ded23255ebd331abc1c8145",
+    "name":"UCD AFC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111138.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d5ec10c634a7fd30da129969c0c1123d",
+    "name":"Minnesota United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111139.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=13efd0c4baedd4ae5bbc47d5632d3a3a",
+    "name":"CF Montréal"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111140.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bed68c6d9a9086acc46e203203edcc09",
+    "name":"Portland Timbers-Thorns"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111144.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e699f95d4e7f61bc4fc99e12b957ed0b",
+    "name":"Sounders FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111235.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=987c81b33a5e3764a91887a6c251ac45",
+    "name":"Heidenheim"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111239.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b6b4ca8e05320656145cf9870b8e5a4c",
+    "name":"FC Ingolstadt 04"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111273.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=94875fecc5ba096169130f5969dffb22",
+    "name":"Red Star FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111276.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5ab4ded262473953abbbff52b6744b83",
+    "name":"USL Dunkerque"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111325.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=87bf618e448362621970f0725564d5c8",
+    "name":"Nacional"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111326.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fdff2da631ee60aa36d66cc07db77030",
+    "name":"Liverpool"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111327.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0857c460d4ce38f6ee82096033749e55",
+    "name":"Huachipato"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111328.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=dc78bb7c3c70951eb33190be6b3e180b",
+    "name":"Palestino"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111329.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d054d3976078916c23118e4fa92e0801",
+    "name":"Guaraní"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111332.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=519598d91321fb76af9e7f3efbf8f903",
+    "name":"Est. de Mérida"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111334.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f3cb1c0ff0db9022af3da13e307954e1",
+    "name":"FBC Melgar"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111339.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=084d2b7a49531269be8e8715039d2c04",
+    "name":"Kasımpaşa"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111380.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3f99afe36928a55811fb2d349ced6f91",
+    "name":"Almere City FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111393.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ff95d8ac0449a9b15d2f01495212058f",
+    "name":"Adelaide United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111395.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=593323905bc02ebe5fe8c31966254c60",
+    "name":"Brisbane Roar"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111396.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0531c8a304fe31e64676c39bc1deebb0",
+    "name":"Central Coast"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111397.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1417f734561dbf84352e2cd20e6b3b3b",
+    "name":"Melb. Victory"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111398.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c6326e04b0efec64e319d2963a8a0c54",
+    "name":"Newcastle Jets"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111399.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=531a43fd59b5454ddd6262fdfd42da30",
+    "name":"Perth Glory"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111400.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=56541af3cfab86c4d6743aae9c1ac031",
+    "name":"Sydney FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111433.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e093cd24806661be175a41e1324cfbaf",
+    "name":"Mantova"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111434.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=753cc8be49ac494a8bc7bb4c2b04114b",
+    "name":"Cremonese"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111539.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e990c135520c34efb09c709290072cd1",
+    "name":"FC Vizela"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111594.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=485e1079fe7474a7240dedce77b505e5",
+    "name":"GAIS"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111629.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=560a982e7cdcf2ef03ee8feadc990486",
+    "name":"East Bengal"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111633.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7da50cf346014a46d31943ea768c95b0",
+    "name":"Mohammedan SC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111651.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=792703d4517f88455f667a1ecdfc32db",
+    "name":"Toronto FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111657.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f45c53d2855a80e19120f45a00d6ec0f",
+    "name":"Frosinone"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111659.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ae951f74383419305fcf9381ba5f10e4",
+    "name":"Rodez AF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111674.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=aaa7f9f638633dcd5359f1caba3b7fc4",
+    "name":"Al Shabab"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111701.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=dde44536c5b2883bea55809986f11faf",
+    "name":"Al Ain FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111705.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c7238291e34a30d48f4a6731f981d12c",
+    "name":"Brommapojkarna"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111706.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1daf2360e15eaca885ddd2d9723cbf8a",
+    "name":"Godoy Cruz"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111708.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=116b75c0c74ab6a0de1dd481ff1e7075",
+    "name":"Atlético Tucumán"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111710.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6686303266455bd33e3aa1c9e4085658",
+    "name":"Defensa"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111711.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e6f129d684b13cb59daeff335fce1662",
+    "name":"Huracán"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111715.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=05fc71f3df8e82677849f1ecbd79fda2",
+    "name":"Tigre"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111716.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=de5d8b15f6a51a6551fecb1d08956b41",
+    "name":"Unión"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111722.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f99d31a733cb711c0bd90c0f7ca0d5ea",
+    "name":"Deportes Tolima"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111724.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=93453830eba5cd5a0602eda6f7c87fe6",
+    "name":"Shandong Taishan"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111766.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3770b2c1b29da63224c042986b06ed48",
+    "name":"Well. Phoenix"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111768.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=67882ade69181dbf9581afe78a98fed1",
+    "name":"Beijing Guoan"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111769.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=dce7e24261d1098757fd6d7aa370bc95",
+    "name":"Changchun Yatai"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111773.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4c08da809515dfea5d22613bab134bdb",
+    "name":"Shenzhen FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111774.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2cc3ba8206b6a5f02481b49e9f8f40e7",
+    "name":"Tianjin JMT FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111779.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f8417a64621d52b4d39c5380035106c1",
+    "name":"Henan SSLM FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111811.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c48c47fff0d00b3cdf5bc87b093c8446",
+    "name":"Monza"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111817.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=98988cfaa363dd6f413fe1d7107fef5f",
+    "name":"Paris FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111822.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bc36f6a3ed25799808e937f392edf4b9",
+    "name":"Wolfsberger AC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111928.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3def1a6b00b42b80aaac080ae6b3f229",
+    "name":"SJ Earthquakes"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111974.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a5d612e856002a3295f91f1d33ec1e18",
+    "name":"Sassuolo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/111993.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8766d6490d97abe92986bb47edec8443",
+    "name":"Cittadella"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112001.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bcedeb1059d7947e4222e46d1ccc1a98",
+    "name":"América Mineiro"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112072.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bf45454e330bf9f980ca8b4486a12fdd",
+    "name":"Mjällby AIF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112096.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5f140ca15468fee32f10a9c911d23a6e",
+    "name":"Ettifaq FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112115.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b733d6571bfea58068f8a098c0c5a094",
+    "name":"Gangwon FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112124.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=99d95e5bdba1130b28ef21011e04c3d1",
+    "name":"SS Juve Stabia"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112126.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f34b26431a7f854754188aab8f475905",
+    "name":"IFK Värnamo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112134.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d6212f4613d096e44146130a490d9c39",
+    "name":"Philadelphia"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112139.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1cab5c408f14a8783f43fe8cbc4dc410",
+    "name":"Al Nassr"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112163.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=46f44f5e6ee89982deb4da4867e2bfde",
+    "name":"Zhejiang Pro"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112168.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e6908ba0f3f1c773f7fd93252bc7693c",
+    "name":"Cosenza"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112172.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c02e0780a50292d3f495e7feade1a040",
+    "name":"RB Leipzig"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112180.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=005b2415e142485da0256d98e0c8830f",
+    "name":"Västerås SK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112184.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=763219c905a0c52f47f1dd0f85a2afb9",
+    "name":"River Plate"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112199.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ba8437006432e628fcae319ae5bd4224",
+    "name":"Sarpsborg 08"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112222.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=97258e9d7a12e96f3af0211122500ae3",
+    "name":"Harrogate Town"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112224.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7df0b25277b72056678e797ba91be7f0",
+    "name":"Melbourne City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112254.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7a8f2fe5cd595930d3b912f4002e0def",
+    "name":"Newport County"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112258.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=284002ecf1a71cf0a0dc4a2316861ce7",
+    "name":"GwangJu FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112259.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1e2c7905512950d3addafcf46c708bba",
+    "name":"AFC Wimbledon"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112260.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bfddaf20b1b831d0f219cea57cf8b354",
+    "name":"Fleetwood Town"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112378.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bdf1de3133a278f913391352d4589da0",
+    "name":"Dalian Pro"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112387.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=77eab850cef792b4e2aed2efc4ca3998",
+    "name":"Al Ahli"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112390.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fe7007e07a8fb2d080fd03556909c9de",
+    "name":"Al Fateh"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112391.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=adc850573dc9aa017964befe115fb2e2",
+    "name":"Al Qadisiyah"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112392.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1c88dd73175c9c326333e23ba1969722",
+    "name":"Al Raed"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112393.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=86a5f2c25f0571613da11f05cab59c8e",
+    "name":"Al Taawoun"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112408.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=48bf627fad4a8ab9d7f62a3f9f8b965f",
+    "name":"Al Wehda"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112427.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=88de07cca518207be3fea11715e1652b",
+    "name":"WS Wanderers"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112472.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=20d3e70c7908784956883e48b4a3ea30",
+    "name":"RB Bragantino"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112493.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=eb3a5d58e8b8150090ad85e16f5d061e",
+    "name":"Carrarese Calcio"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112494.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=819e0409685b79e5e3cf491b043f06c1",
+    "name":"Südtirol"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112499.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1eac5b082a052c3c9efa742444d2770b",
+    "name":"Feralpisalò"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112511.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=11068842ad7f44ac68896f8bbf9994ff",
+    "name":"Warta Poznań"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112513.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=627b6ac9f8abe0d1c917e940cceadce9",
+    "name":"Arouca"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112535.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=63d7754a4aa5a19bfe9354df07e8129f",
+    "name":"Unión La Calera"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112540.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=87934f5549d03527a0785fe3259496db",
+    "name":"Shanghai Port"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112552.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4a358ec18916bb38d3fcd4c0a473ff66",
+    "name":"Quevilly Rouen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112558.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b7f0f5f448373ffb0dd2cef93a3e1bb9",
+    "name":"Suwon FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112572.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4e0ef429019d818f1a06c2ff935bac59",
+    "name":"Al Tai"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112578.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2dbb19047c1591e1046bfc2bd5b3cc6e",
+    "name":"Águilas Doradas"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112584.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=dd12f86601b0ab6c05f6d90cb3975139",
+    "name":"Everton"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112585.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5279096a05d7e6673c0998ec5971d46b",
+    "name":"Ñublense"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112606.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=beff9dcb61240ddce1e093f8b1c24a09",
+    "name":"Orlando City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112615.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=87f0a5df2045de57f7e6c1694bc04215",
+    "name":"Racing Club"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112658.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=69d485db3433187e3f96fa74572b9594",
+    "name":"EA FC ICONS"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112667.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6eb27b7cf08c011c725236f81b9a3827",
+    "name":"Nacional Potosí"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112670.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c7baaec587e117150091566c41cc8ba7",
+    "name":"Talleres"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112671.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=51842beabf22b4587d219d5ccb5db8b9",
+    "name":"Club Nacional"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112675.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1312bace62b207821df473afbee8c995",
+    "name":"Al Orobah"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112689.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=67ab088382c9a904418712f6056877d6",
+    "name":"Platense"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112705.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c8d393c67e8652a4d2d277bed546bb88",
+    "name":"Coquimbo Unido"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112707.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=21ea0458abd87af4afcec5bc0598d8bf",
+    "name":"Club Magallanes"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112713.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=08db8105ed6c1a55c4283bbd1fb6f259",
+    "name":"Sarmiento"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112716.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=82d25d675d0438711f5908590b736fa8",
+    "name":"Cerro Porteño"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112744.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fe43ee2e96a51e09c23915d2d26e78c4",
+    "name":"Dep. Pereira"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112764.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7aabf90347c019b5102087996d146c80",
+    "name":"Bromley FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112809.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a85102c60d5496649ce0c8375b98952f",
+    "name":"FC Famalicão"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112828.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9d60f4211042a08cd519ca2f5f71e3e8",
+    "name":"New York City FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112853.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b0500e9213331d95c50e44058d938d06",
+    "name":"Dep. La Guaira"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112883.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9977cd24db9a664f5b09b8de12b2a80f",
+    "name":"Al Khaleej"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112885.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0cee047e72992514c03a856f00c2dc80",
+    "name":"Atlanta United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112893.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d485e05543c5221ff56faa5e1ab9c844",
+    "name":"Inter Miami CF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112908.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5181dc1398a39d8418fa9bce35966365",
+    "name":"Independiente DV"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112914.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f9495ccba5d4f17a693098d49b1c56d4",
+    "name":"Metropolitanos"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112965.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a68efb4c434d70e96bb30cad8a527ff1",
+    "name":"Central Córdoba"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112979.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3e91fabc3b3b0bf6fcbeaf584b31b655",
+    "name":"Nantong Zhiyun FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112985.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=34b5da538974f28502472964654514d9",
+    "name":"Cangzhou FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/112996.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f6a4796b28b52c98d1c094bd7fadc6f6",
+    "name":"LAFC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113018.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fd5db1922b81cc6850e85aae44774c35",
+    "name":"St. Louis CITY SC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113029.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=36fe37cfb816f8738fef75a64aaac12a",
+    "name":"UCV"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113037.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=447d0695c9f3d39890a5dbd1e326871b",
+    "name":"Al Riyadh"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113040.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=425fb8ce691e726c7cf0cae9a33edfdb",
+    "name":"NorthEast United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113044.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=85a1f2449c64f1eb11236732524b1b24",
+    "name":"Barracas Central"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113057.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c6dafa885e8daef090619abd3981fad7",
+    "name":"Al Fayha"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113058.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=cb8e7b27b2dd37e1d4feb119387b3a07",
+    "name":"Abha Club"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113060.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f24d2bece81c15606ba254685fb73c0d",
+    "name":"Al Okhdood"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113142.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ff672120c245f306f4a4506f46aad5bb",
+    "name":"Alanyaspor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113146.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4f808735b1d517cbdfe62281f8c4206e",
+    "name":"ATK Mohun Bagan"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113149.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5b7c998b65e39f38a3950fea3fb70ead",
+    "name":"FC Cincinnati"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113182.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=75e0e86c16326e68d32e3deca1ecebc6",
+    "name":"FC Voluntari"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113217.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b5e9b8ded1eeec7c9c77b95b94e82ce4",
+    "name":"Damac FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113222.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fff9566a962b32b60be697fed9f7b882",
+    "name":"Al Hazem"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113257.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=137fc1a6707cfd7acbaa0902142bcca0",
+    "name":"Odisha FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113297.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=95c54babee40f03058025e1bf1453893",
+    "name":"Chennaiyin FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113298.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=89aea37e681dc220a992379242e98bfe",
+    "name":"FC Goa"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113299.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=10f98f90bb9c34ef758958b3d1afa99b",
+    "name":"Kerala Blasters"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113300.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=edaca6c67f7decab362dbc742498a7ec",
+    "name":"Mumbai City FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113301.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0d5d81bc2b3b678224162ecf54e25aab",
+    "name":"Hyderabad FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113302.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6eaeca261a2b3253070e302f68b82a2a",
+    "name":"Bengaluru FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113356.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=21525a24ff16271fdeef1fa1d8b92099",
+    "name":"SD Amorebieta"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113378.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=18088cec51eade548f417bcae05531a7",
+    "name":"Sepsi OSK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113458.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3c8f4752c8ab86440c6c38f998db02d4",
+    "name":"IK Sirius"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113459.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=06d262382e65f8395acd0b9113822461",
+    "name":"Kristiansund BK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113616.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d783eec4e32a023bcfac6f722a9e6d93",
+    "name":"Grazer AK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113742.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=214135cca70a47da9a4bd32d9039603d",
+    "name":"US Concarneau"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113743.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a937800d9ac0fe080b86318c010a9282",
+    "name":"Varbergs BoIS"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113746.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5b704279f6993dce0e9bee33799308be",
+    "name":"Técnico U."
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113888.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7272c2673f73c1516874d2914fc6d35a",
+    "name":"Qarabağ FK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113892.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b5bb889dcbed2c52c1c3298565e4b6c9",
+    "name":"Degerfors IF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113926.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=795e794959fde26cb92fb161da6fc3c1",
+    "name":"Salford City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113973.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=30e324e10b098cbd4e797b3c9607c77a",
+    "name":"Brisigonza"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/113974.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=74e055e5c1deaad5f3fd5874774d13b4",
+    "name":"Spezia"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114004.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1e859bc3d564aecf695570608a459d7f",
+    "name":"Stal Mielec"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114023.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=de0fffc1453dcbdb712fe37eae45e5e4",
+    "name":"Western United"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114147.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=528381a8b218c96cbcc196c331d93bc5",
+    "name":"FC Hermannstadt"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114161.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=cb705cdcb727f2b29df96b081cb6dec9",
+    "name":"Austin FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114162.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=272a2a5894ca9f815a10a88f06b04b42",
+    "name":"Nashville SC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114168.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=867eba2890bb0ba1aefe47c819f4c161",
+    "name":"Jamshedpur FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114326.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=465f4d15ab83f984b292758cd8f31b37",
+    "name":"Raków"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114385.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fc17fae61681c31ee57fa1bdebaca4bf",
+    "name":"CFR 1907 Cluj"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114393.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=aabafce744ae171b898b638a00bff214",
+    "name":"Puszcza"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114510.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=6b4a1a80e0975b76fba31a734f5479df",
+    "name":"Casa Pia AC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114511.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ab5f98984e072ec3801f34fd96d1c3e9",
+    "name":"Sport Huancayo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114549.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=95ee0ef3f7f2a518d0d34f33ed54ca81",
+    "name":"FC Gloria Buzău"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114554.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bde00d90284a2aae3a1be872a2af03b7",
+    "name":"FC Andorra"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114577.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a62a16e3ea6bbe4730d352cea2877e7c",
+    "name":"Always Ready"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114580.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=84f4b17fee40613eaf598e474f49274f",
+    "name":"Delfín S.C."
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114581.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=02e41d4c64a584920fa045dbf0c53042",
+    "name":"U. Católica"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114582.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3dfd52f034aee9d0aae528ed301897b2",
+    "name":"Binacional"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114600.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9f28d302f8140231510a2f3e0453a316",
+    "name":"Guabirá"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114604.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3613f0956dfe49c3d1d8cc888fceb99e",
+    "name":"Macarthur FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114605.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=14c9d7f4fd33f47c7fe05be6b80d27b6",
+    "name":"HERO"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114611.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4560a9bc1788e41ccc5a304450d29086",
+    "name":"Puerto Cabello"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114628.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=793036111f0eec128577b4fe64c7a73a",
+    "name":"Meizhou Hakka"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114640.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4e43db04c71d63223d6b777f6ee67922",
+    "name":"Charlotte FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/114912.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1605d7a945571183ada72293379819f1",
+    "name":"Roma FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/115201.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4feb1f1ec36274b40726c4ce47c36932",
+    "name":"Stade-Lausanne"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/115202.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bbdcf6da95a3d926069fb7f8d8604026",
+    "name":"Punjab FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/115358.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9fb57ef0fe35425a8298ebf3d8620694",
+    "name":"Palmaflor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/115472.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7af41f9f0f0427b1386cbc55ee5979bc",
+    "name":"Dep. Riestra"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/115491.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ed50841f14af7647b6c24b116b676961",
+    "name":"Real Tomayapo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/115536.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9a08e4354d7c960d0d7a8c320adbf14f",
+    "name":"Cerro Largo"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/115716.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1597533a0e446363bbb7336d601dd33f",
+    "name":"FCU 1948"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/115841.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a1fb9293926dc22a9792586144f936ac",
+    "name":"Latium"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/115845.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f0324959f88c8fab7c312a2bd9e0f6b1",
+    "name":"Bergamo Calcio"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116000.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f06adf4d54d92f25d28e8ea24380262b",
+    "name":"Turbine Potsdam"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116001.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2acc7b9d125c88f8464ae57d94bf3ce7",
+    "name":"SGS Essen"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116005.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ee12d579c52c1abfe638a9b746c2694c",
+    "name":"Carl Zeiss Jena"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116007.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a5699f7e1eec6eb1d63788267e0cd16e",
+    "name":"Gral. Caballero"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116036.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=ce9ec97c38f223857eff49ba41da8783",
+    "name":"FC Fleury 91"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116039.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3f593a5ae3c7afbc42d3d2dc4e751678",
+    "name":"Dijon FCO"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116044.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=970110b36390fa661fceeef5134b6ec2",
+    "name":"AS Saint Étienne"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116263.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f7f3312837378a815b831c07cab134c0",
+    "name":"ADT"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116292.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0b48471cb2f65a716cb30d3c71bb51f5",
+    "name":"Universitario"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116295.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c5cdf7cc3cc1261fe167cbae92e711c6",
+    "name":"S. Ameliano"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116300.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=2e77f36c2ec09919babe3eb218c7a52e",
+    "name":"OL Reign"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116303.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=29ac587842de06bdf4e39d25a7340672",
+    "name":"NC Courage"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116304.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=48a771645875a1b5a4e0e5d930b1bbeb",
+    "name":"Washington Spirit"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116305.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9badde20d7783881d027d6220f49cdc2",
+    "name":"Chicago Red Stars"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116306.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=7e0fc5ef8338ce08a50da1a49e42b42a",
+    "name":"Houston Dash"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116307.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=000c938a474de44b986b393322f6f561",
+    "name":"Orlando Pride"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116308.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=29495c67b732661b23e07f9cbbe698d5",
+    "name":"Rac. Louisville"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116309.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e6356a462a845d9c6581d12e93c252ce",
+    "name":"KC Current"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116310.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=3cdbffb2000896eba60bda5ccb942730",
+    "name":"NJ/NY Gotham"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116311.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d2ddc771b59e905862ab8380145f8566",
+    "name":"Angel City FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116312.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c3518256b9edf68136077e3f7efd42fe",
+    "name":"San Diego Wave"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116323.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=97278990b24fcbee4edbe73bee02aba4",
+    "name":"S. Trinidense"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116332.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=33dca730da22bb69f143674be039fe34",
+    "name":"UDG Tenerife"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116334.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a0b92527a0300abf7899b8866d8651c9",
+    "name":"Madrid CFF"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116338.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=e500df4fb7641668e0269a7f66527d3b",
+    "name":"Sporting Huelva"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116360.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=f287f00a3a49c2d1e199398ffa743538",
+    "name":"Rongcheng FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116361.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b637a00258fb9ad7e991bd1bce2bce2c",
+    "name":"Wuhan 3 Towns"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/116365.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=df1def6a2a6883ec2f671a925c3e1012",
+    "name":"Napoli FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131110.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=5f31e9174d8bf5ec4e364fa4422d420b",
+    "name":"CD Eldense"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131125.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=832923eddc03b2010c85f15ec386c112",
+    "name":"Levante LP"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131161.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=0705c7491f0d7be6c4eb6c16416dd70c",
+    "name":"Dep. Garcilaso"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131173.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=b1558e12622dd8f2e5e7b9d30a4a12b9",
+    "name":"Qingdao Hainiu"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131174.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=32dfca3f014f134c18668a334b7b0983",
+    "name":"Eyüpspor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131362.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=93d27705441a46c86f290af2d08479d3",
+    "name":"FC Rosengård"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131363.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d4b1cf3d4fd9109d9ba959973ac58021",
+    "name":"Glasgow City FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131388.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=8976b0f3be687b0dd9e28e1c56564e8c",
+    "name":"Bodrum FK"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131389.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a1edbf585fb22d7a293531bcd0427d0b",
+    "name":"Pendikspor"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131447.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=c2fdde82fc6896168977c4d517e77b5d",
+    "name":"AC Beauruelle"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131459.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=81b25a46af3d7cfefe1bda8161bb1ffc",
+    "name":"Unirea Slobozia"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131463.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=fa240fe53fa285ac56ed7184b02370f0",
+    "name":"AVS Futebol SAD"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131474.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=054d3d30a133c9be284d4be76ab8018b",
+    "name":"Rayo Zuliano"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131477.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=9a20853d4eed2e852160445936e730a6",
+    "name":"Bay FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131478.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=bdf601ee9d6bb8f5c689237bb67136d1",
+    "name":"Utah Royals FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131487.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4d9463c2d6f75d7a41d386045faeac01",
+    "name":"SZ Peng City"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131488.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a5f965516d7c96d85efdd7e25343377c",
+    "name":"Qingdao W. Coast"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131491.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=d7c99dc67b9a745768a867798e98ad6c",
+    "name":"KFUM-Kameratene"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131511.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=a92b9c9c33cafa5a6f975b024f657220",
+    "name":"Alianza FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131681.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=4516bff5526665faf14efcba1a761acf",
+    "name":"Milano FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131682.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=84bdb0d5acad6e8a8395055faf8b76ee",
+    "name":"Lombardia FC"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131735.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=57c75ccce67a9d90d194212eedbd160d",
+    "name":"Al Kholood"
+ },
+ {
+        "img":"https://cdn3.futbin.com/content/fifa25/img/clubs/dark/131739.png?fm=png&amp;ixlib=java-2.1.0&amp;verzion=2&amp;w=256&amp;s=1fb853e0ba0a42d7fd40ec39ef031b73",
+    "name":"Auckland FC"
+ }
+]

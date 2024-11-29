@@ -162,24 +162,5 @@ export const dummyPlayersData = [
     // ...continue with the rest in the same format
   ];
  
-  
-
-  export const dummyGoalKeeper = {
-    name: "Jan Oblak",
-      photo: "https://cdn.sofifa.net/players/200/389/25_120.png",
-      position: "GK",
-      nationality: "Slovenia",
-      flag: "https://cdn.sofifa.net/flags/si.png",
-      club: "Atletico Madrid",
-      logo: "https://cdn.sofifa.net/meta/team/7980/120.png",
-      rating: 91,
-      diving: 89,
-      handling: 90,
-      kicking: 78,
-      reflexes: 92,
-      speed: 50,
-      positioning: 88
-  };
-
 
   
