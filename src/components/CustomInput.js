@@ -1,8 +1,8 @@
 import React, { forwardRef } from "react";
 
-const CustomInput = forwardRef(({ name, label, type, options, inputStyle, onChange }, ref) => {
+const CustomInput = forwardRef(({ name, label, placeholder,type, options, containerStyle ,inputStyle, onChange }, ref) => {
   return (
-    <div>
+    <div className={containerStyle}>
       {label && <label htmlFor={name} className="block text-sm font-medium mb-1">{label}</label>}
       {type === "select" ? (
         <select id={name} name={name} className={inputStyle} onChange={onChange}>
@@ -17,6 +17,7 @@ const CustomInput = forwardRef(({ name, label, type, options, inputStyle, onChan
           id={name}
           type={type}
           name={name}
+          placeholder={placeholder}
           ref={ref} // Forward the ref here
           className={inputStyle}
           onChange={onChange}

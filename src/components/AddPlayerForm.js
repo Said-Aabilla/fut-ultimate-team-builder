@@ -29,9 +29,11 @@ const AddPlayerForm = () => {
 
   const positions = [
     { value: "GK", label: "Goalkeeper" },
-    { value: "FW", label: "Forward" },
-    { value: "MF", label: "Midfielder" },
-    { value: "DF", label: "Defender" },
+    { value: "CM", label: "Midfielder" },
+    { value: "CB", label: "Defender" },
+    { value: "ST", label: "Striker" },
+    { value: "LW", label: "Left Wing" },
+    { value: "RW", label: "Right Wing" },
   ];
 
   const handleFormSubmit = (e) => {
@@ -89,7 +91,7 @@ const AddPlayerForm = () => {
   };
 
   return (
-    <div className="bg-gray-200 p-4 shadow-lg transform">
+    <div className="bg-gray-200 border rounded-md p-4 shadow-lg transform">
       <h2 className="text-xl font-bold mb-4 text-center">Add a Player</h2>
       <form className="space-y-4" onSubmit={handleFormSubmit}>
         {/* Player Photo and Upload */}
