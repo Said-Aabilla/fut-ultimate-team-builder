@@ -4,7 +4,7 @@ import StadiumSection from "../components/StadiumSection";
 
 const MainContainer = () => (
     <>
-        <div className="mt-5 grid grid-cols-[repeat(auto-fit,minmax(300px,1fr))] h-screen border">
+        <div className="mt-2 grid grid-cols-[repeat(auto-fit,minmax(300px,1fr))] h-screen border">
             <StadiumSection />
             <SideSection />
         </div>

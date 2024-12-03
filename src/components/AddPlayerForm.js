@@ -36,6 +36,7 @@ const AddPlayerForm = () => {
     { value: "RW", label: "Right Wing" },
   ];
 
+  const allInputsStyles = "w-full border border-blue-600 rounded p-2";
   const handleFormSubmit = (e) => {
     //add player to the players list
 
@@ -78,7 +79,7 @@ const AddPlayerForm = () => {
         name={stat}
         label={stat.charAt(0).toUpperCase() + stat.slice(1)}
         type="number"
-        inputStyle="w-full border border-gray-300 rounded p-2"
+        inputStyle={allInputsStyles}
         onChange={(e) =>
           setPlayerData((prev) => ({
             ...prev,
@@ -91,7 +92,7 @@ const AddPlayerForm = () => {
   };
 
   return (
-    <div className="bg-gray-200 border rounded-md p-4 shadow-lg transform">
+    <div className="bg-white border rounded-md p-4 shadow-lg transform scale-90 ">
       <h2 className="text-xl font-bold mb-4 text-center">Add a Player</h2>
       <form className="space-y-4" onSubmit={handleFormSubmit}>
         {/* Player Photo and Upload */}
@@ -118,7 +119,7 @@ const AddPlayerForm = () => {
               name="name"
               label="Name"
               type="text"
-              inputStyle="w-full border border-gray-300 rounded p-2"
+              inputStyle={allInputsStyles}
               onChange={handleInputChange}
               value={playerData.name}
             />
@@ -144,7 +145,7 @@ const AddPlayerForm = () => {
               label="Nationality"
               type="select"
               options={countries}
-              inputStyle="w-full border border-gray-300 rounded p-2"
+              inputStyle={allInputsStyles}
               onChange={handleInputChange}
             />
           </div>
@@ -155,7 +156,7 @@ const AddPlayerForm = () => {
               name="rating"
               label="Rating"
               type="number"
-              inputStyle="w-full border border-gray-300 rounded p-2"
+              inputStyle={allInputsStyles}
               onChange={handleInputChange}
               value={playerData.rating}
             />
@@ -169,7 +170,7 @@ const AddPlayerForm = () => {
           label="Club"
           type="select"
           options={clubs}
-          inputStyle="w-full border border-gray-300 rounded p-2"
+          inputStyle={allInputsStyles}
           onChange={handleInputChange}
         />
 
@@ -179,7 +180,7 @@ const AddPlayerForm = () => {
           label="Position"
           type="select"
           options={positions}
-          inputStyle="w-full border border-gray-300 rounded p-2"
+          inputStyle={allInputsStyles}
           onChange={handleInputChange}
         />
 

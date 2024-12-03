@@ -4,7 +4,7 @@ import SearchPlayer from "./SearchPlayer";
 const ReserveList = () => (
     <div className="col-span-1 relative transform scale-90 bg-gray-900 text-center border rounded-lg h-[75vh] overflow-y-auto">
         <h2 className="text-xl text-white font-bold pt-5">Reserve Players</h2>
-        <SearchPlayer style="flex flex-col gap-2 mt-3"/>
+        <SearchPlayer style="w-[100%] flex flex-col gap-2 mt-3 ml-4"/>
 
         <div className="flex flex-wrap gap-4 scale-90">
             {dummyPlayersData.map((player, index) => (
