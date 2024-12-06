@@ -14,15 +14,16 @@ const SideSection = () => {
   return (
     <div className="col-span-1 h-[95%] w-[95%] bg-gray-900 p-4 shadow-lg border rounded-lg transform">
       
-      <div className="w-full flex flex-row justify-center items-center">
+      <div className="w-[95%] flex flex-row justify-center items-center">
        {/* Formation */}
-       <label  className="text-xl grow w-full font-bold mb-4 text-center text-white" >Change Formation</label>
+       <label  className="text-md grow w-full font-bold text-center text-white" >Change Formation</label>
         <CustomInput
           name="position"
           type="select"
           options={formations}
           inputStyle="grow text-black w-full border border-gray-300 rounded p-2"
           onChange={handleInputChange}
+          containerStyle="w-full"
         />      </div>
       
       <AddPlayerForm />
