@@ -1,5 +1,5 @@
 import { useState, useRef } from "react";
-import CustomInput from "./CustomInput";
+import CustomInput from "../ui/CustomInput";
 
 const AddPlayerForm = () => {
   const [photoPreview, setPhotoPreview] = useState("");

@@ -1,5 +1,5 @@
-import AddPlayerForm from "./AddPlayerForm";
-import CustomInput from "./CustomInput";
+import AddPlayerForm from "../players/AddPlayerForm";
+import CustomInput from "../ui/CustomInput";
 
 const formations = [
   { value: "433", label: "4-3-3" },

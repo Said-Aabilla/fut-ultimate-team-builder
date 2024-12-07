@@ -1,5 +1,5 @@
 import { useState } from "react";
-import CustomInput from "./CustomInput";
+import CustomInput from "../ui/CustomInput";
 
 const SearchPlayer = ({style}) => {
 

@@ -1,4 +1,4 @@
-import PlayerCard from "./PlayerCard.js";
+import PlayerCard from "../players/PlayerCard.js";
 
 
 const StadiumSection = () => (

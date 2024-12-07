@@ -1,6 +1,6 @@
-import SowPlayersLists from "../components/ShowPlayersLists";
-import SideSection from "../components/SideSection";
-import StadiumSection from "../components/StadiumSection";
+import SowPlayersLists from "./ShowPlayersLists";
+import SideSection from "./SideSection";
+import StadiumSection from "./StadiumSection";
 
 const MainContainer = () => (
     <>

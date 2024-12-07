@@ -1,5 +1,5 @@
 import PlayerCard from "./PlayerCard";
-import { dummyPlayersData } from "../utils/dummyData";
+import { dummyPlayersData } from "../../utils/dummyData";
 import SearchPlayer from "./SearchPlayer";
 const ReserveList = () => (
     <div className="col-span-1 relative transform scale-90 bg-gray-900 text-center border rounded-lg h-[75vh] overflow-y-auto">

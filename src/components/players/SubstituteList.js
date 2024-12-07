@@ -1,5 +1,5 @@
 import PlayerCard from "./PlayerCard";
-import { dummyPlayersData } from "../utils/dummyData";
+import { dummyPlayersData } from "../../utils/dummyData";
 import SearchPlayer from "./SearchPlayer";
 const SubstituteList = () => (
     <div className="col-span-2 relative transform scale-90  bg-gray-900 text-center border rounded-lg h-[75vh] w-[92%] overflow-x-auto">
